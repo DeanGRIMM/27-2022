@@ -28,9 +28,9 @@
 
 ## ссылки 
 
-[аниме!](https://jut-su.net/)
+[кинопоиск](https://www.kinopoisk.ru/?from=tableau_yabro)
 
-[онлайн-игра в браузере!](https://jackbox.fun/ )
+[аниме](https://jut.su/anime/)
 
 
 ## работа с таблицами 
